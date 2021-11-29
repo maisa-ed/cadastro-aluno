@@ -4,16 +4,24 @@
     <projectFile>CadastroAluno/CadastroAluno.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1b18a14-a346-4d81-b0f2-4d7be1ee34ef" name="Changes" comment="" />
+    <list default="true" id="f1b18a14-a346-4d81-b0f2-4d7be1ee34ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CadastroAluno/Lifo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CadastroAluno/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CadastroAluno/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CadastroAluno/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CadastroAluno/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b1af7e98236d4c20a1537b232dc972a68d7a00/B3/Number.Parsing.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="21IDJMK1X0e186RbJJG3t6BqEMU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,14 +65,27 @@
       <option name="presentableId" value="Default" />
       <updated>1637619635183</updated>
       <workItem from="1637619638420" duration="7962000" />
+      <workItem from="1638220004460" duration="5766000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
